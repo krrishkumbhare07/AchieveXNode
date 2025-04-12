@@ -1,0 +1,7355 @@
+{
+  "exam_info": {
+    "exam_type": "UPSC_CDS",
+    "year": 2013,
+    "session": "I",
+    "subject": "English",
+    "total_questions": 120
+  },
+  "questions": [
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish1",
+        "serial_no": "1",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 1",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "instructions",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "directions",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "advice",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish2",
+        "serial_no": "2",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 2",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "reached",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "came",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "went",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish3",
+        "serial_no": "3",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 3",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "asked",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "convinced",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "told",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish4",
+        "serial_no": "4",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 4",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "find",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "hit",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "see",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish5",
+        "serial_no": "5",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 5",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "idea",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "inclination",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "urge",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish6",
+        "serial_no": "6",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 6",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "start",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "goO",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "proceed",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish7",
+        "serial_no": "7",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 7",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "station",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "destination",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "spot",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish8",
+        "serial_no": "8",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 8",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "with",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "by",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "on",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish9",
+        "serial_no": "9",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 9",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "painted",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "thought",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "stood",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish10",
+        "serial_no": "10",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 10",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "back",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "some",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "aside",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish11",
+        "serial_no": "11",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 11",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "near",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "and",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "to",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish12",
+        "serial_no": "12",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Blank 12",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "after",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "again",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "back",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish13",
+        "serial_no": "13",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "An accomplice is a partner in........",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "business",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "crime",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "construction",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "gambling",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish14",
+        "serial_no": "14",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "A person who pretends to be what he is not is called an ............ .",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "imbiber",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "impresario",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "imitator",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "imposter",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish15",
+        "serial_no": "15",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "His............... nature would not let him leave his office before 5 p.m.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "honest",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "selfish",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "unscrupulous",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "conscientious",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish16",
+        "serial_no": "16",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The Committee's appeal to the people for money......... little response.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "evoked",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "provided",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "provoked",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "prevented",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish17",
+        "serial_no": "17",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Too many skyscrapers ..............the view along the beach.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "reveal",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "obstruct",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "make",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "clear",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish18",
+        "serial_no": "18",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Though he has several interim plans, his ..........aim is to become a billionaire.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "absolute",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "determined",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "only",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "ultimate",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish19",
+        "serial_no": "19",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Ronald Ross was born in Almora, in the Himalayas in 1857.S6: Manson directed him to an effective study of the disease and with his help, Ross solved the mystery in three years.P : He began to feel that he ought to try to do something about it.Q : He was educated in England and returned to India as an officer in the Indian Medical Service.R : He started to study malaria and during a vacation to England, met Patrick Manson and studied tropical diseases under him.S : His medical conscience was stirred by the appalling disease and misery with which he was surrounded in the course of his work.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "SRPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "QSPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish20",
+        "serial_no": "20",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Science has turned the world into one unit.S6: Practically every part of the world has friendly or hostile relationship with every other part.P: Nowadays such pleasing illusions are impossible to have.Q : Since that time they have been coming closer to each other.R : Before the 16 th century, America and the Far East were almost unrelated to Europe.S : Augustus in Rome and Han Emperor in China simultaneously imagined themselves masters of the world.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SRPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RQSP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish21",
+        "serial_no": "21",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Plants need carbon for building the tissue of their bodies.S6: Thus through a complex process called photosynthesis, plants receive their requirements from the soil and Sun.P: The breaking up of carbon dioxide into its components requires energy, which they derive from the Sun.Q: Plants' other needs of nutrients are derived from the soil and water through their roots.R : They derive this carbon from the carbon dioxide in the air.S : They break up the carbon dioxide, absorb the carbon and discharge oxygen into the air for animals to breathe.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "QSPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RSPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SQRP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish22",
+        "serial_no": "22",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: I searched for my friend all day.S6: When I woke up the Sun was already above the horizon.P : Although I was weary and hungry, I was not discouraged.Q : I crept in and lay on the ground with my bag for a pillow.R : When midnight came I felt that I could not walk much further.S: At last I came to a place where the pavement was raised and had a hollow underneath.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PRSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SRQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish23",
+        "serial_no": "23",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: While on a fishing trip last summer, I watched an elderly man fishing off the edge of a dock.S6: Cheerfully, the old man replied, \"Small frying pan\".P: \"Why didn't you keep the other big ones?\" I asked.Q : He caught an enormous trout, but apparently not satisfied with its size, he threw it back into the water.R : He finally caught a small pike, threw it into his pail, and smiling happily prepared to leaveS: Amazed, I watched him repeat this performance.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "QSPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PQSR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "QPSR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish24",
+        "serial_no": "24",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Mr. Johnson looked at his watch.S6: He always says to his friends at the office:'It is nice to have breakfast in the morning, but it is nicer to lie in bed.'P: He was late as usual, so he did not have time for breakfast.Q : Then he washed and dressed.R : He ran all the way to the station and he arrived there just in time for the train.S : It was half past seven and he got out of bed quickly.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "SQPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SRQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish25",
+        "serial_no": "25",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: The essence of democracy is the active participation of the people in government affairs.S6: By and large it is the actual practice of our way of life.P : When the people are active watchmen and participants, we have that fertile soil in which democracy flourishes.Q : Our democracy is founded upon a faith in the overall judgement of the people as a whole.R : When the people do not participate, the spirit of democracy dies.S : When the people are honestly and clearly informed, their commonsense can be relied upon to carry the nation safely through any crisis.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PRSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "PSRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish26",
+        "serial_no": "26",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Always remember that regular and frequent practice is essential if you are to learn to write well.S6: If you keep your eyes and ears open, you will find plenty of things to write about.P : Even with the most famous writers, inspiration is rare.Q : Writing is ninety nine per cent hard work and one per cent inspiration, so the sooner you get into the habit of writing, the better.R : It is no good waiting until you have an inspiration before you write.S : You learn to write by writing.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "SRPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SPRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "QPSR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish27",
+        "serial_no": "27",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "S1: Human ways of life have steadily changed.S6: During the last few years change has been even more rapid than usual.P: From that time to this, civilization has always been changing.Q : About ten thousand years ago, man lived entirely by hunting.R : Ancient Egypt - Greece - The Roman Empire - the Dark Ages and the Middle Ages - The Renaissance - the age of modern science and of modern nations one has succeeded the other; and history has never stood still.S: A settled civilized life began only when agriculture was discovered.The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "QSRP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "QSPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SPRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish28",
+        "serial_no": "28",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "She told the children not to stop the work.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "not stopping",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "don't stop",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "not stopping of",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish29",
+        "serial_no": "29",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I am not telling that you should hunt out people to pursue your policies.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "asking",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "saying",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "speaking",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish30",
+        "serial_no": "30",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He succeeded by dint of hard work.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "by means of",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "by doing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "by virtue of",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish31",
+        "serial_no": "31",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "You have read that book for ages.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "have been reading",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "had read",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "will be reading",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish32",
+        "serial_no": "32",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The only bit of relief for the victims has been the increase in compensation.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "were",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "have been",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "was that they were given",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish33",
+        "serial_no": "33",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He is resembling his father.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "has been resembling",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "resembles like",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "resembles",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish34",
+        "serial_no": "34",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I am not sure why she is wanting to see him",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "she wants",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "does she want",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "is she wanting",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish35",
+        "serial_no": "35",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Everybody who finished writing can go home.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "had finished",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "have finished",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "has finished",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish36",
+        "serial_no": "36",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I wish I can sing as well as you do.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "do",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "could",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "did",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish37",
+        "serial_no": "37",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It has been two years since I have seen him last.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "when I have seen him",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "since I had seen him",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "since I saw him",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish38",
+        "serial_no": "38",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "My neighbour is having two cars.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "is owning",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "has",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "is possessing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish39",
+        "serial_no": "39",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "His flute recitation was highly appreciated.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "flute recital",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "flute play",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "flute singing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish40",
+        "serial_no": "40",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "She must try at making him understand.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "to make him to understand",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "to make him understand",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "to make his understanding",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish41",
+        "serial_no": "41",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "These are your new shoes, aren't they?",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "isn't it?",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "is it so?",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "are they?",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish42",
+        "serial_no": "42",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He told to us every thing he knew.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "us everything he knew",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "us everything he is knowing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "us everything he was knowing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish43",
+        "serial_no": "43",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Unless you do not work hard, you won't succeed in life.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "cannot work hard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "will not work hard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "work hard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish44",
+        "serial_no": "44",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "As I am tired, I cannot be able to climb this hill now.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "can be able",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "will not be able",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "will not be possible",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish45",
+        "serial_no": "45",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I should not spend money for luxuries.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "on luxuries",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "in luxuries",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "through luxuries",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish46",
+        "serial_no": "46",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "On being asked by the judge if he had murdered his wife the accused denied the charge.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "refused",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "rebutted",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "contradicted",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish47",
+        "serial_no": "47",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The new headmaster affected many changes in the school.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "injected",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "effected",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "inflicted",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "No improvement",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish48",
+        "serial_no": "48",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Galileo made several telescopes because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "he needed all of them to explore the heavens",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "he wanted to compare the findings obtained from different telescopes",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "the earlier ones he made were not powerful enough",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "only some of them could magnify the stars",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish49",
+        "serial_no": "49",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "When Galileo saw what no human eye had ever before seen he",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "was overjoyed",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "was shocked",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "felt humble",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "was very proud",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish50",
+        "serial_no": "50",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The author wants us to know that his father",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "was a school teacher",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "was an educationist and socialist",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "used to travel a lot",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "loved teaching",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish51",
+        "serial_no": "51",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The author often felt embarrassed by the behaviour of his father because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "he taught badly",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "he taught even at odd places",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "he wanted to show off his learning",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "he lost self-control while teaching",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish52",
+        "serial_no": "52",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "To the generation of the writer's father, education was",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "an old fashioned enterprise",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "the result of good teaching",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "an exploration of the world of imagination",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "one aspect of socialism",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish53",
+        "serial_no": "53",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "From the passage it is clear that the author",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "loved and admired his father",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "disapproved his father's love of teaching",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "thought of him as vain",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "considered his father's education inadequate",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish54",
+        "serial_no": "54",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Mothi and the narrator were scanning the ground because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "they were looking for the tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "the forest was full of unpleasant surprises",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "they were trying to discover the tiger's footprints",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "they were looking for marks left by the tiger's prey",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish55",
+        "serial_no": "55",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Mothi began to scream when he",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "was attacked by a swarm of bees",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "was frightened by the sight of blood",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "came face-to-face with the tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "stumbled on the tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish56",
+        "serial_no": "56",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "In the context of the passage 'kill' means",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "the act of killing",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "an animal killed by the tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "a human being killed by the tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "a wounded tiger",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish57",
+        "serial_no": "57",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Before Mothi screamed, the jungle was",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "quiet",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "dark",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "noisy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "terrifying",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish58",
+        "serial_no": "58",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Ibbotson was reluctant to agree to the narrator's plan because he was afraid that",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "the leopard would kill him",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "the narrator would become very tired",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "the narrator would kill the leopard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "the leopard might not come",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish59",
+        "serial_no": "59",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The narrator wanted to",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "shoot the leopard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "see the leopard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "capture the leopard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "frighten the leopard",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish60",
+        "serial_no": "60",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The poor farmers in Bengal took up indigo cultivation because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "the government encouraged them to do so",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "it was a money earning crop",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "they were forced to do so",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "this was the only crop that would grow in that region",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish61",
+        "serial_no": "61",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "British settlers bought land in Bengal in order to",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "introduce cultivation of cash crops in India",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "cultivate indigo",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "settle down in India",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "promote export business in Bengal",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish62",
+        "serial_no": "62",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Indigo export was profitable for the British settlers because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "they had no competitors",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "the crop yield was good",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "they could oppress the farmers",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "the labour was cheap",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish63",
+        "serial_no": "63",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "From the above passage it appears that rhinos",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "run away when they see human beings",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "rush to attack when they smell human scent",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "hide under the bushes at the sight of human beings",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "stand still if they are not attacked",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish64",
+        "serial_no": "64",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "When the author saw a rhino for the first time, he was",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "excited",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "frightened",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "charmed",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "surprised",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish65",
+        "serial_no": "65",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The author could not take the photographs of the rhinos because",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "he was too far away from rhinos",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "he was not carrying a good camera",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "it did not occur to him that he had a chance to do so",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "he did not like the look of rhinos",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish66",
+        "serial_no": "66",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He disdained to notice the insult.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "was very proud",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "refused",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "was unhappy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "Was too reluctant",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish67",
+        "serial_no": "67",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He gave an evocative rendering of his recent poems.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "thrilling",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "enchanting",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "emotional",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "incantatory",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish68",
+        "serial_no": "68",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Expeditious steps should be taken to complete the work in two weeks.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "unmerciful and punitive",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "strict and forceful",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "disciplinary",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "prompt and efficient",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish69",
+        "serial_no": "69",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Why did you make that flippant remark?",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "highly critical",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "not showing deserved respect",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "casual",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "indifferent",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish70",
+        "serial_no": "70",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "That is not an occasion to make an impromptu speech.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "without preparation",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "thoughtless",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "improper",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "long and boring",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish71",
+        "serial_no": "71",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The weavers have to do monotonous work.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "autonomous",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "irksome",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "exhausting",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "repetitive",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish72",
+        "serial_no": "72",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "There is not a single word that is redundant in the report.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "unimportant",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "not needed",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "bombastic",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "flowery",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish73",
+        "serial_no": "73",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The country's economy is beginning to look up now.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "look clear",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "go down",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "remain static",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "improve",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish74",
+        "serial_no": "74",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The old man shows no signs of infirmity even though he is eighty years old.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "lack of firmness",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "feebleness",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "fickleness",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "indolence",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish75",
+        "serial_no": "75",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It needs an expert to decipher the secret message sent to the Army Officers during war time.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "swindle",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "decode",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "make up",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "defy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish76",
+        "serial_no": "76",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Bana in Sanskrit, Lyly in English and Prasad in Hindi are celebrated for their florid style.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "ornate",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "rich",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "refined",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "rambling",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish77",
+        "serial_no": "77",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "My brother's zest for the new project was infectious.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "greed",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "enthusiasm",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "attraction",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "fascination",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish78",
+        "serial_no": "78",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The eyewitness testimony was incontrovertible.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "disputable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "debatable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "unacceptable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "unquestionable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish79",
+        "serial_no": "79",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "His forthright behaviour shows that he is honest but he seems rude to some people.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "courteous",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "straightforward",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "tactful",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "correct",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish80",
+        "serial_no": "80",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The minister's speech was comprehensive and was greatly appreciated.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "praiseworthy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "full of fine words",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "covering all aspects",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "understandable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish81",
+        "serial_no": "81",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It was true that the pet dog/(P) would never sleep anywhere/(Q) we once had/ (R) except an sofa/(S)The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RPQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish82",
+        "serial_no": "82",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Recently, containing memorable leters of Churchil/(P) a bok/(Q) has ben published/ (R) by a reputed publisher/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "QRPS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "QPRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RPQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish83",
+        "serial_no": "83",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "As the situation has changed, since we last discused this mater/(P) it was best o contact you/(Q) it apeared to me/(R) without losingtime/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PRSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SPRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish84",
+        "serial_no": "84",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "After the awarding speches the prizes given/ (P) and/(Q) had ben delivered/(R) I got up toadres the gathering/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "SRQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RQPS 𝜕",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish85",
+        "serial_no": "85",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The management having agred/(P) the workers caled of the strike/(Q) to increase their wages/(R) and returned to work/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PSRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish86",
+        "serial_no": "86",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Al religions are to advance the cause of peace/(P) in a holy partnership/(Q) justice andfredom/(R) bound together/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SQPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish87",
+        "serial_no": "87",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The natives of Caribean regarded the papaya/(P) because of its ability/(Q) as a magic tre/(R) to kep them healthy/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PRSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "PRQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RPQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish88",
+        "serial_no": "88",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The Indian woman wants in a male dominatedsociety/(P) as an equal partner/(Q) and it is not to much to demand/(R) her rightful place/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "SRPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SQPR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "QPSR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish89",
+        "serial_no": "89",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "This is a leter by a young lady/(P) who was lately wounded in a duel/(Q) writen pasionately/(R) wherein she laments the misfortune of a gentleman/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "SRPQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RSQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "QPSR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish90",
+        "serial_no": "90",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It is for a man/(P) when he acompanies a lady/(Q) an acepted custom/(R) to open the dor/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "RPSQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "PSRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "RPQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish91",
+        "serial_no": "91",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "91. We agred with/(P) the maner in which you said it/(Q) but we objected to/(R) what you said/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SPRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "PSRQ",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish92",
+        "serial_no": "92",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It is a wonder that migratory birds/(P) without ever geting lost/(Q) always manage to find their home/(R) flying thousands of kilometres/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PQRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "SPQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "SQRP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish93",
+        "serial_no": "93",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He asked me would telephone him/(P) as son as I/(Q) if I/(R) reach home/(S) The proper sequence should be",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "PSQR",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "QPRS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "RPQS",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "SRQP",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish94",
+        "serial_no": "94",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "His partners felt that it was a viable busines proposition.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "enviable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "unenviable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "inviolable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "impracticable",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish95",
+        "serial_no": "95",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The usual adulation of officers must end.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "back-biting",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "condemnation",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "flattery",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "praise",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish96",
+        "serial_no": "96",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "There is an obscure cave on the other side of the hill.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "well-known",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "infamous",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "notorious",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "admired",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish97",
+        "serial_no": "97",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Her impetuous behaviour was attributed to her upbringing.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "rash",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "poised",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "sluggish",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "aggressive",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish98",
+        "serial_no": "98",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "All these measures will augment employment.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "diminish",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "circumscribe",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "restrain",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "constrain",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish99",
+        "serial_no": "99",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The two friends were distinct in everything; dress, manners, hair-style and food-habits.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "opposite",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "different",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "uniform",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "similar",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "D",
+        "explanation": "Correct Answer is : D",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish100",
+        "serial_no": "100",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The man at the gate had a forbidding appearance.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "handsome",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "lenient",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "filthy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "mild",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish101",
+        "serial_no": "101",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "This is a trivial matter.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "important",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "small",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "easy",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "difficult",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish102",
+        "serial_no": "102",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Everybody called it a lavish party.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "big",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "wasteful",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "frugal",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "expensive",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish103",
+        "serial_no": "103",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Popular fiction in a sense has enriched world literature.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "devalued",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "undervalued",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "depreciated",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "impoverished",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish104",
+        "serial_no": "104",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Her manner has always been hostile to him.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "sincere",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "friendly",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "fair",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "good",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish105",
+        "serial_no": "105",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The speaker was irritated with his puerile questions.",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "impertinent",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "serious",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "inane",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "irrelevant",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish106",
+        "serial_no": "106",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I should do/(A) the same/(B) if I were in your place/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish107",
+        "serial_no": "107",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He has ben sufering/(A) with fever/(B) for the last six weks/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish108",
+        "serial_no": "108",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The examination begins/(A) from Monday/ (B) next wek/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish109",
+        "serial_no": "109",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "My father says/(A) that one should always be sincere/(B) to his duties/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish110",
+        "serial_no": "110",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "There has ben/(A) a number of railway acidents/(B) during the last month/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish111",
+        "serial_no": "111",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "In spite of al eforts to eradicate malaria/(A) it stil prevalent/(B) in many parts of India/ (C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish112",
+        "serial_no": "112",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "It is only thre days ago/(A) that/(B) he has arived/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish113",
+        "serial_no": "113",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He has lost/(A) al what/(B) I gave him/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish114",
+        "serial_no": "114",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "I have/(A) no news from him/(B) for a longtime/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "B",
+        "explanation": "Correct Answer is : B",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish115",
+        "serial_no": "115",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "Mahatma Gandhi’s entire life/(A) was one unrelenting experiment/(B) on truth/(C). Noeror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish116",
+        "serial_no": "116",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "As the thieves ran out of the bank/(A) theygot into the getaway car/(B) which was waiting with its engine runing/(C). Noeror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish117",
+        "serial_no": "117",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "He denied that he had not stolen my purse,/ (A) though I was quite sure/(B) that he had/ (C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish118",
+        "serial_no": "118",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The media of films has ben acepted by al/(A) as the most powerful force/(B) that influences the younger generation/(C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "A",
+        "explanation": "Correct Answer is : A",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish119",
+        "serial_no": "119",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "The French Embasy employs him/(A) regularly/(B) as he knows to speak French/ (C). No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    },
+    {
+      "exam_type": "UPSC_CDS",
+      "metadata": {
+        "question_id": "2013IUPSC_CDSEnglish120",
+        "serial_no": "120",
+        "subject": "English",
+        "topic": "",
+        "subtopic": "",
+        "year": 2013,
+        "exam_session": "I"
+      },
+      "content": {
+        "text": "How is it hat neither your friend Mahesh/(A) nor his brother Ramesh/(B) have protestedagainst this injustice?/(C) No eror/(D).",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "B",
+          "text": "(B)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "C",
+          "text": "(C)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        },
+        {
+          "id": "D",
+          "text": "(D)",
+          "has_image": false,
+          "image_url": "",
+          "has_equation": false,
+          "equation_data": ""
+        }
+      ],
+      "solution": {
+        "correct_option": "C",
+        "explanation": "Correct Answer is : C",
+        "explanation_format": "text",
+        "has_image": false,
+        "image_urls": [],
+        "has_equation": false,
+        "equation_data": ""
+      }
+    }
+  ]
+}
